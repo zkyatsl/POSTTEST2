@@ -65,6 +65,62 @@ dan jika salah 3kali maka akan kembali ke menu pilihan pertama untuk masuk sebag
   Masukkan harga baru
 
   # Delete
+  ![image](https://github.com/zkyatsl/POSTTEST2/assets/98721112/69fc5649-5adc-409e-bfe2-767404a26946)
+
+
+
+  Opsi 4,Delete digunakan untuk menghapus game dari list yang ada
+
+  Masukkan kode game yang ingin dihapus
+  
+  jika kode game tidak terdapat dalam list,maka output yang keluar "Game tidak ada"
+
+  jika kode game benar, game sesuai kode yang di input akan terhapus.
+  
+  # Kembali
+
+![image](https://github.com/zkyatsl/POSTTEST2/assets/98721112/3ea4a42d-6fe0-4c31-afe9-317a223da299)
+
+Opsi 5, Kembali
+
+akan membawa pengguna kembali ke halaman masuk.
+
+
+  # Opsi Pembeli
+  ![image](https://github.com/zkyatsl/POSTTEST2/assets/98721112/b0801dc4-693e-4a6c-ad53-0008d1e999bf)
+
+
+  Sebagai pembeli
+
+  Pembeli hanya akan diminta memasukkan kode game yang ingin dibeli 
+
+  dan diminta memasukkan jumlah kaset (isi 1 karena dibatasi maksimal 1 kaset)
+
+
+  akan keluar output kode game, jumlah kaset, beserta total harga
+
+  dan output  "TERIMA KASIH SUDAH BELI DISINI"
+
+  # Opsi Keluar
+  ![image](https://github.com/zkyatsl/POSTTEST2/assets/98721112/4c625d6d-d6d6-4de6-a25d-466e4941edb7)
+  
+
+  Opsi terakhir, Keluar
+
+  akan membawa pengguna menuju program akhir dan
+
+  mengeluarkan output "Terima Kasih telah mengunjungi Playstation Mania"
+
+
+  
+
+  
+
+
+  
+  
+  
+
   
 
   
